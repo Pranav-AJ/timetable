@@ -104,4 +104,4 @@ Execute the program+
 </html>
 ```
 # OUPUT
-![label](./timetable.png)
+![label](timetable.png)

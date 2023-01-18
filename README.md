@@ -103,5 +103,8 @@ Execute the program+
 </body>
 </html>
 ```
-# OUPUT
+# OUTPUT
 ![label](./timetable.png)
+
+# RESULT
+The program is executed succesfully.

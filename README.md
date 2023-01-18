@@ -107,4 +107,4 @@ Execute the program+
 ![label](./timetable.png)
 
 # RESULT
-The program is executed succesfully.
+The program is executed successfully.
